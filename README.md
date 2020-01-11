@@ -20,3 +20,9 @@ git commit
 ## to publish your local commits
 git push
 
+## unstage changes
+git reset
+
+## discard changes
+git checkout [some_dir|file.txt]
+
