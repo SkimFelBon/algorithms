@@ -1,21 +1,22 @@
 # algorithms
 Learn and practice algorithms
-# status
+
+## status
 git status
 
-# stage changes
+## stage changes
 git add <filename>
 
-# simply check changes
+## simply check changes
 git diff <filename>
 
-# show staged changes
+## show staged changes
 git diff --staged/ git diff --cached
 git diff --staged <filename>
 
-# commit changes
+## commit changes
 git commit
 
-# to publish your local commits
+## to publish your local commits
 git push
 
