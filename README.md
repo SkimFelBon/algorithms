@@ -26,3 +26,4 @@ git reset
 ## discard changes
 git checkout [some_dir|file.txt]
 
+## some changes update local repo, delete me, and upload changes
