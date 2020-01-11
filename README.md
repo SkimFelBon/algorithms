@@ -1,6 +1,7 @@
 # algorithms
 Learn and practice algorithms
 
+# most used git commands
 ## status
 git status
 
@@ -24,6 +25,7 @@ git push
 git reset
 
 ## discard changes
-git checkout [some_dir|file.txt]
+git checkout <somedir> OR <file>
 
-## some changes update local repo, delete me, and upload changes
+## to update your local branch
+git pull
